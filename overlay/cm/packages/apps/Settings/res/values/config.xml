@@ -2,4 +2,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Disable Volume rocker support. -->
     <bool name="has_volume_rocker">false</bool>
+    <!-- Disable Internal GPS support. -->
+    <bool name="has_location_gps">false</bool>
 </resources>
