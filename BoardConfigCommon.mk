@@ -99,3 +99,6 @@ TARGET_USERIMAGES_USE_EXT4 := true
 TW_CUSTOM_POWER_BUTTON := 107
 TW_BRIGHTNESS_PATH := /sys/devices/platform/omap_pwm_led/leds/lcd-backlight/brightness
 TW_MAX_BRIGHTNESS := 254
+
+# Dalvik
+TARGET_ARCH_LOWMEM := true
