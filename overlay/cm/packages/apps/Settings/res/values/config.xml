@@ -2,4 +2,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Disable Volume rocker support. -->
     <bool name="has_volume_rocker">false</bool>
+    <!-- Whether or not the USB audio settings are to be displayed for this device -->
+    <bool name="has_usb_audio_settings">true</bool>
 </resources>
